@@ -1,8 +1,8 @@
 # **Tanto tempo fa....**
 **in una galassia lontana lontana**
-===============================
+---
 
-Top 5 Star Wars Movies:
+*Top 5 Star Wars Movies:*
 - Empire Strikes Back
 - Empire Strikes Back
 - Empire Strikes Back
@@ -14,9 +14,17 @@ Top 5 Star Wars Movies:
 | 44  | Gatti |
 | x6  | Resto 2  |
 
+---
+
   * Bellini
   * Questi
   * Pallini
+ 
+ ---
+  Your favourite star wars character:
+  - [ ] Darth Vader
+  - [ ] Your Father
+  - [ ] Stalin
 
 ![GitHub image](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
 

@@ -1,8 +1,8 @@
-## **Tanto tempo fa....**
+# **Tanto tempo fa....**
 **in una galassia lontana lontana**
 ===============================
 
-Top 5 Star Wars mMovies:
+Top 5 Star Wars Movies:
 - Empire Strikes Back
 - Empire Strikes Back
 - Empire Strikes Back
